@@ -7,3 +7,27 @@ This project focuses on the development of scalable and explainable data quality
 4. schema validation
 5. dataset scoring
 
+# Problem Statement
+
+Modern AI systems depend heavily on high-quality data.
+
+# But most real-world datasets contain:
+
+* missing values,
+* duplicate records,
+inconsistent schemas,
+noisy labels,
+semantic conflicts,
+invalid relationships,
+outliers.
+
+# Poor-quality data leads to:
+
+hallucinations,
+biased models,
+incorrect predictions,
+unreliable AI systems.
+
+# This project aims to:
+
+automatically analyze, profile, validate, and score dataset quality.
